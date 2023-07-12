@@ -1,0 +1,164 @@
+[
+    {
+        "producto":"Batidora BLACKLINE Rojo",
+        "precio":129.00,
+        "img":"img/uno.png",
+        "webpage": "https://www.plazavea.com.pe/batidora-de-pedestal-blackline-8020-rojo/p"
+    },
+    {
+        "producto":"Horno Eléctrico BLACKLINE",
+        "precio":369.00,
+        "img": "img/dos.png",
+        "webpage": "https://www.plazavea.com.pe/horno-electrico-blackline-gr60a-negro/p"
+    },
+    {
+        "producto":"Batidora Planetaria OSTER Negro",
+        "precio":369.00,
+        "img": "img/tres.png",
+        "webpage": "https://www.plazavea.com.pe/batidora-planetaria-oster-fpstsm3711--2114180-negro/p"
+    },
+    {
+        "producto":"Olla Arrocera OSTER 1.8L Rojo",
+        "precio":109.00,
+        "img": "img/cuatro.png",
+        "webpage": "https://www.plazavea.com.pe/olla-arrocera-oster-1-8l-ckstrc1700r-rojo/p"
+    },
+    {
+        "producto":"Freidora de Aire OSTER 1.8L",
+        "precio":179.00,
+        "img": "img/cinco.png",
+        "webpage": "https://www.plazavea.com.pe/freidora-de-aire-oster-1-8l-digital-negro/p"
+    },
+    {
+        "producto":"Licuadora OSTER 1.5L Rojo",
+        "precio":169.00,
+        "img": "img/seis.png",
+        "webpage": "https://www.plazavea.com.pe/licuadora-oster-1-5l-blstkagrrd-control-de-perilla-rojo/p"
+    },
+    {
+        "producto":"Hervidor Eléctrico OSTER 1.7L",
+        "precio":119.00,
+        "img": "img/siete.png",
+        "webpage": "https://www.plazavea.com.pe/hervidor-electrico-oster-1-7l-acero-inox/p"
+    },
+    {
+        "producto":"Cocedor de Huevos Negro",
+        "precio":49.00,
+        "img":"img/ocho.png",
+        "webpage": "https://www.plazavea.com.pe/cocedor-de-huevos-thomas-th-80-negro/p"
+    },
+    {
+        "producto":"Cafetera OSTER 12 Tazas negro",
+        "precio":169.00,
+        "img": "img/nueve.png",
+        "webpage": "https://www.plazavea.com.pe/cafetera-oster-12-tazas-bvstdcs12b053-negro/p"
+    },
+    {
+        "producto":"Multiolla Rápida OSTER 5L Silver",
+        "precio":199.00,
+        "img": "img/diez.png",
+        "webpage": "https://www.plazavea.com.pe/multiolla-rapida-oster-5l-ckstpcec57m-silver/p"
+    },
+    {
+        "producto":"Plancha a Vapor OSTER Blanco",
+        "precio":99.00,
+        "img": "img/once.png",
+        "webpage": "https://www.plazavea.com.pe/plancha-a-vapor-oster-gcstac6901-blanco-perla/p"
+    },
+    {
+        "producto":"Vaporizador de Prendas OSTER",
+        "precio":149.00,
+        "img": "img/doce.png",
+        "webpage": "https://www.plazavea.com.pe/vaporizador-de-prendas-oster-gctes100-2100696-negro/p"
+    },
+    {
+        "producto":"Plancha Vertical Vapor Blanco/Rojo",
+        "precio":139.00,
+        "img": "img/trece.png",
+        "webpage": "https://www.plazavea.com.pe/plancha-vertical-a-vapor-thomas-th7300-blanco-con-rojo/p"
+    },
+    {
+        "producto":"Batidora de Mano IMACO Negro",
+        "precio":59.00,
+        "img": "img/catorce.png",
+        "webpage": "https://www.plazavea.com.pe/batidora-de-mano-imaco-hm3025n-negro/p"
+    },
+    {
+        "producto":"Balanza Digital BLACKLINE Gris",
+        "precio":79.00,
+        "img": "img/quince.png",
+        "webpage": "https://www.plazavea.com.pe/balanza-digital-blackline-bd0001-gris/p"
+    },
+    {
+        "producto":"Batidora de Mano Portatil",
+        "precio":39.00,
+        "img": "img/diecises.png",
+        "webpage": "https://www.plazavea.com.pe/batidora-espumador-de-mano-portatil-recargable-acero-inoxidable-blanco-100643415/p"
+    },
+    {
+        "producto":"Horno Eléctrico THOMAS",
+        "precio":399.00,
+        "img": "img/diecisiete.png",
+        "webpage": "https://www.plazavea.com.pe/horno-electrico-thomas-th45vn/p"
+    },
+    {
+        "producto":"Panini Grill Holstein 2P Inoxidable",
+        "precio":89.00,
+        "img": "img/dieciocho.png",
+        "webpage": "https://www.plazavea.com.pe/panini-grill-holstein-2p-inoxidable-99921144/p"
+    },
+    {
+        "producto":"Hervidor eléctrico Collection",
+        "precio":49.80,
+        "img": "img/diecinueve.png",
+        "webpage": "https://www.plazavea.com.pe/hervidor-electrico-collection-99937599/p"
+    },
+    {
+        "producto":"Horno Electrico Oster con freidora de aire 42L",
+        "precio":999.00,
+        "img": "img/veinte.png",
+        "webpage": "https://www.plazavea.com.pe/horno-electrico-digital-oster-con-freidora-de-aire-42l-tssttvfddaf-100767758/p"
+    },
+    {
+        "producto":"Tostadora IMACO",
+        "precio":69.00,
+        "img": "img/veintiuno.png",
+        "webpage": "https://www.plazavea.com.pe/tostadora-imaco-ibt2085n-modelos-aleatorios/p"
+    },
+    {
+        "producto":"Tosty Arepa Oster Antiadherente",
+        "precio":85.00,
+        "img": "img/veintidos.png",
+        "webpage": "https://www.plazavea.com.pe/tosty-arepa-oster-ckstam0513-antiadherente-100496939/p"
+    },
+    {
+        "producto":"Máquina Para Hacer Yoguis",
+        "precio":89.00,
+        "img": "img/veinitres.png",
+        "webpage": "https://www.plazavea.com.pe/maquina-para-hacer-yoguis-6-porciones-100139637/p"
+    },
+    {
+        "producto":"Máquina para crepes Housewares",
+        "precio":109.00,
+        "img": "img/veinticuatro.png",
+        "webpage": "https://www.plazavea.com.pe/maquina-para-crepes-housewares-100434963/p"
+    },
+    {
+        "producto":"Waflera 7 Diseños",
+        "precio":89.00,
+        "img": "img/veinticinco.png",
+        "webpage": "https://www.plazavea.com.pe/waflera-7-dise%C3%B1os-100747478/p"
+    },
+    {
+        "producto":"Olla Multifuncional 8L Gris con Negro",
+        "precio":649.00,
+        "img": "img/veintiseis.png",
+        "webpage": "https://www.plazavea.com.pe/olla-multifuncional-instant-pot-8l-duo-80-gris-con-negro/p"
+    },
+    {
+        "producto":"Horno Microondas BLACKLINE 20L Plateado",
+        "precio":299.00,
+        "img": "img/veinitisiete.png",
+        "webpage": "https://www.plazavea.com.pe/microondas-blackline-20l-p70h20el-a5h-plateado/p"
+    }
+]

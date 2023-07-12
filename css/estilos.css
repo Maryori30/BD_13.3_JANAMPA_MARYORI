@@ -1,0 +1,107 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display:block;
+}
+* {
+    margin:0;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.color {
+    background-color: rgb(145, 226, 160);
+    box-shadow: 5px 5px 20px rgb(38, 219, 65);
+    margin: 7px;
+}
+.color:active{
+    transform:scale(0.9);
+}
+
+#formulario {
+    padding: 15px;
+    width: 350px;
+    height: 520px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(224, 242, 59);
+    border-radius: 15px;
+    border: 2px solid black;
+    margin-top:30px;
+}
+
+h3 {
+    font-size: 35px;
+    margin: 12px;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-Wrap: wrap;
+}
+.producto {
+    text-align: center;
+    background-color: rgb(198, 226, 225);
+    margin: 10px auto;
+    border: 4px rgb(63, 44, 123) solid;
+    width: 300px;
+    height: 295px;
+    border-radius: 20px;
+    padding: 18px;
+    margin-left:72px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+
+}
+
+body {
+    background-color: rgb(253, 255, 127);
+}
+header{
+    background-color:rgb(223, 204, 176) ;
+    margin-bottom: 30px;
+}
+header h2{
+    font-size:40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-shadow: 10px 10px 5px rgb(131, 106, 75);
+    margin:20px;
+}
+#carrito{
+    float:right;
+    margin-right: 20px;
+    margin-top:15px;
+    width: 80px;
+    height: 80px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    margin-top:25px;
+}
+
+form img {
+    width:70px ;
+    height: 69px;
+    margin: 2px 15px 2px 15px;
+}
+
+form #logo{
+    width:170px ;
+    height:170px;
+}
+footer{
+    background-color:rgb(223, 204, 176) ;
+    margin:0;
+    padding:20px;
+    font-size: 20px;
+}
+footer img{
+    width:30px ;
+    height: 30px;
+}
